@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/media/nischal/90D094C3D094B0C8/AndroidStudioProjects/MaterialMashup/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/media/nischal/90D094C3D094B0C8/AndroidStudioProjects/MaterialMashup/app/build/intermediates/pre-dexed/debug/classes-6788fcf3b03062a26f2f9e154c26e538313e1421.jar" />
+    </item>
+    <item
+        jar="/media/nischal/90D094C3D094B0C8/AndroidStudioProjects/MaterialMashup/app/build/intermediates/exploded-aar/com.github.traex.rippleeffect/library/1.3/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ee17feb34ce104bc17d1a1e64346d7f779ebb066">
+        <dex dex="/media/nischal/90D094C3D094B0C8/AndroidStudioProjects/MaterialMashup/app/build/intermediates/pre-dexed/debug/classes-39bc3d80985fc5bbd76cae9d6c7df3b2f62eef97.jar" />
+    </item>
+    <item
+        jar="/media/nischal/90D094C3D094B0C8/AndroidStudioProjects/MaterialMashup/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/media/nischal/90D094C3D094B0C8/AndroidStudioProjects/MaterialMashup/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-7ddebf4ca0559af7cbfefa5763515630878b9d99.jar" />
+    </item>
+    <item
+        jar="/media/nischal/90D094C3D094B0C8/AndroidStudioProjects/MaterialMashup/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="/media/nischal/90D094C3D094B0C8/AndroidStudioProjects/MaterialMashup/app/build/intermediates/pre-dexed/debug/classes-f488c6fe29938f2a4d2d8e3b20a5e37d3a352263.jar" />
+    </item>
+    <item
+        jar="/media/nischal/90D094C3D094B0C8/AndroidStudioProjects/MaterialMashup/app/build/intermediates/exploded-aar/com.balysv/material-ripple/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c733e9d1b065d940a08f2fca0ff920dfc08d94cc">
+        <dex dex="/media/nischal/90D094C3D094B0C8/AndroidStudioProjects/MaterialMashup/app/build/intermediates/pre-dexed/debug/classes-63a2aa361f640993dd721ccb8bcadfafe384a7ff.jar" />
+    </item>
+    <item
+        jar="/media/nischal/90D094C3D094B0C8/AndroidStudioProjects/MaterialMashup/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/media/nischal/90D094C3D094B0C8/AndroidStudioProjects/MaterialMashup/app/build/intermediates/pre-dexed/debug/classes-f4b2210af27b1eeb706badb873b0bfe33162b8ac.jar" />
+    </item>
+    <item
+        jar="/home/nischal/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/media/nischal/90D094C3D094B0C8/AndroidStudioProjects/MaterialMashup/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-b5ec8c4dc4c1c46ab30945a9e075ea630b14d844.jar" />
+    </item>
+    <item
+        jar="/media/nischal/90D094C3D094B0C8/AndroidStudioProjects/MaterialMashup/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/media/nischal/90D094C3D094B0C8/AndroidStudioProjects/MaterialMashup/app/build/intermediates/pre-dexed/debug/classes-2d2bc25bc6d9a1ae1372425fd9a0f084ac5bfd3c.jar" />
+    </item>
+
+</items>
